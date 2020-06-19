@@ -43,7 +43,8 @@ Integració de les eines en el flux de desenvolupament
 Assentar els coneixements teòrics adquirits a través de la seva aplicació, amb el suport de diferents eines en un projecte simulat.
  	 
 Continguts
-1. Eines de control de versions: Git
+1. **Eines de control de versions**: **Git**
+
     **Funcionament**
     Eines de gestió del repositori
     Treball en equip
@@ -51,17 +52,27 @@ Continguts
     Patrons de flux treball amb el sistema de control de versions git
     Configuració, gitconfig, Hooks
 
-1. Contenidors: Docker
-Conceptes bàsics
-Altres contenidors
-Windows vs Linux
-Funcionament i gestió
-Creació d’imatges
-Usos en les diferents fases del desenvolupament
-Alternatives
-Orquestració de contenidors
+1. **Contenidors**: **Docker**
 
-3. Proves de programari: Junit, xunit
+    Conceptes bàsics
+    
+    Altres contenidors
+    
+    Windows vs Linux
+    
+    Funcionament i gestió
+    
+    Creació d’imatges
+    
+    Usos en les diferents fases del desenvolupament
+    
+    Alternatives
+    
+    Orquestració de contenidors
+    
+
+1. **Proves de programari**: **Junit, xunit**
+
 Contenidors en els entorns de proves
 Proves unitàries
 Desenvolupament dirigit pels tests: TDD
@@ -69,7 +80,8 @@ Proves d’integració
 Proves d’acceptació
 Proves d’interfícies
 
-4. Integració de les eines en un flux de treball ja sigui individual o en grup
+1. **Integració de les eines en un flux de treball ja sigui individual o en grup**
+
 Integració del que s’ha vist en un sistema de CI/CD
 Anàlisi estàtic de codi
 
