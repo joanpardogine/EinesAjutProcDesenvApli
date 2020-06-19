@@ -34,63 +34,53 @@ Inscripció gratuïta a partir de l' 1 d'abril
 Adreçat a professorat d'FP de la família d'Informàtica i Comunicacions
 Adjudicació de places per ordre d'inscripció amb prioritat al professorat del centre acollidor de la formació
  	 
-Objectius  	Conèixer i practicar amb les eines més freqüents en el flux de treball del desenvolupament de programari actual:
+# Objectius
 
-Sistemes de control de versions
-Contenidors de programari
-Proves i TDD.
-Integració de les eines en el flux de desenvolupament
-Assentar els coneixements teòrics adquirits a través de la seva aplicació, amb el suport de diferents eines en un projecte simulat.
+Conèixer i practicar amb les eines més freqüents en el flux de treball del desenvolupament de programari actual:
+
+- Sistemes de control de versions
+- Contenidors de programari
+- Proves i TDD.
+- Integració de les eines en el flux de desenvolupament
+- Assentar els coneixements teòrics adquirits a través de la seva aplicació, amb el suport de diferents eines en un projecte simulat.
  	 
 Continguts
 1. **Eines de control de versions**: **Git**
 
-    **Funcionament**
-    Eines de gestió del repositori
-    Treball en equip
-    Integració i característiques aportades pels hostings. GitHub, GitLab, …
-    Patrons de flux treball amb el sistema de control de versions git
-    Configuració, gitconfig, Hooks
+    - Funcionament
+    - Eines de gestió del repositori
+    - Treball en equip
+    - Integració i característiques aportades pels hostings. GitHub, GitLab, …
+    - Patrons de flux treball amb el sistema de control de versions git
+    - Configuració, gitconfig, Hooks
 
 1. **Contenidors**: **Docker**
 
-    Conceptes bàsics
+    - Conceptes bàsics   
+    - Altres contenidors    
+    - Windows vs Linux    
+    - Funcionament i gestió    
+    - Creació d’imatges    
+    - Usos en les diferents fases del desenvolupament    
+    - Alternatives    
+    - Orquestració de contenidors
     
-    Altres contenidors
-    
-    Windows vs Linux
-    
-    Funcionament i gestió
-    
-    Creació d’imatges
-    
-    Usos en les diferents fases del desenvolupament
-    
-    Alternatives
-    
-    Orquestració de contenidors
-    
-
 1. **Proves de programari**: **Junit, xunit**
 
-Contenidors en els entorns de proves
-Proves unitàries
-Desenvolupament dirigit pels tests: TDD
-Proves d’integració
-Proves d’acceptació
-Proves d’interfícies
+    - Contenidors en els entorns de proves
+    - Proves unitàries
+    - Desenvolupament dirigit pels tests: TDD
+    - Proves d’integració
+    - Proves d’acceptació
+    - Proves d’interfícies
 
 1. **Integració de les eines en un flux de treball ja sigui individual o en grup**
 
-Integració del que s’ha vist en un sistema de CI/CD
-Anàlisi estàtic de codi
+    - Integració del que s’ha vist en un sistema de CI/CD
+    - Anàlisi estàtic de codi
 
  	 
 Observacions  	Més informació
-
- 	 
 Formador/a  	Sr. Xavier Sala Pujolar
- 	 
 Organització  	ICE de la Universitat de Girona
- 	 
 E-mail  	ice@udg.edu
