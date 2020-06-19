@@ -19,7 +19,9 @@ Per obtenir la certificació cal haver assistit a les hores de video conferènci
 
 Curs telemàtic que pretèn oferir una visió de com està canviant el flux de desenvolupament a partir de l'ús de les eines de suport que s'estan convertint en un estàndard en els processos de desenvolupament dels equips de programari. És recomanable que els assistents tinguin coneixements previs de programació.
 La base del curs pot dur-se a terme amb qualsevol llenguatge de programació tot i que en el curs s'utilitzarà el llenguatge C# o Java.
-També es disposarà del codi amb el que es treballarà en altres llenguatges com Python, Go o Rust (però en aquests llenguatges la recerca de les eines equivalents quan faci falta anirà a càrrec de l’alumne)
+També es disposarà del codi amb el que es treballarà en altres llenguatges com Python, Go o Rust (però en aquests llenguatges la recerca de les eines equivalents quan faci falta anirà a càrrec de l’alumne)]
+
+![][https://apps.udg.edu/MAU/icefnu/Client/Oferta/Image/5463?iddocument=4092&original=1]
 
 ## Metodologia
 
@@ -44,7 +46,7 @@ Conèixer i practicar amb les eines més freqüents en el flux de treball del de
 - Integració de les eines en el flux de desenvolupament
 - Assentar els coneixements teòrics adquirits a través de la seva aplicació, amb el suport de diferents eines en un projecte simulat.
  	 
-Continguts
+## Continguts
 1. **Eines de control de versions**: **Git**
 
     - Funcionament
